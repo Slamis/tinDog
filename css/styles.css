@@ -1,0 +1,162 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #ffffff;
+}
+
+#cta {
+  background-color: #ff4c68;
+  color: #ffffff;
+  text-align: center;
+  /* padding: 3% 12%; */
+  height: auto;
+}
+
+#footer {
+
+    text-align: center;
+    background-color: #ff4c68;
+    font-family: 'Montserrat-bold', sans-serif;
+}
+
+#features {
+  font-family: 'Montserrat-bold', sans-serif;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: 'Montserrat-light', sans-serif;
+  font-size: 1.2rem;
+}
+
+/* Buttons */
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Titale img */
+.img-title-phone {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Features */
+.features-item {
+  text-align: center;
+}
+
+.features-item h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 3% 0 0 0;
+}
+
+.features-item p {
+  color: #8f8f8f;
+  width: 60%;
+  margin: auto;
+}
+
+.fa-features {
+  color: #ef8172;
+}
+
+.fa-features:hover {
+  color: #ff4c68;
+}
+
+/* <!-- Testimonials --> */
+#testimonials {
+  text-align: center;
+  background-color: #ff4c68;
+  color: #ffffff;
+}
+
+.testimonials-img {
+  border-radius: 50%;
+  width: 15%;
+  padding: 20px;
+  margin: auto;
+}
+
+#press {
+  padding-bottom: 3%;
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+}
+
+.pricing-title {
+  text-align: center;
+  font-size: 3rem;
+  /* padding: 3% 7%; */
+}
+
+.card-deck {
+  padding: 0 10%;
+}
+
+.sign-btn {
+  margin: 5% 15%;
+}
+
+.card-body {
+  padding: 2%;
+}
+
+
+.p-footer {
+  margin:0;
+}
+
+.cta-btn {
+  margin: 5%;
+}
